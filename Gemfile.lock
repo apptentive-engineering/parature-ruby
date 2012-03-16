@@ -1,0 +1,46 @@
+PATH
+  remote: .
+  specs:
+    parature (0.0.1)
+      json
+      rest-client
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ZenTest (4.6.2)
+    addressable (2.2.7)
+    autotest-fsevent (0.2.8)
+      sys-uname
+    autotest-growl (0.2.16)
+    crack (0.3.1)
+    diff-lcs (1.1.3)
+    ffi (1.0.11)
+    json (1.6.5)
+    mime-types (1.17.2)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    rspec (2.8.0)
+      rspec-core (~> 2.8.0)
+      rspec-expectations (~> 2.8.0)
+      rspec-mocks (~> 2.8.0)
+    rspec-core (2.8.0)
+    rspec-expectations (2.8.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.8.0)
+    sys-uname (0.9.0)
+      ffi (>= 1.0.0)
+    webmock (1.8.2)
+      addressable (>= 2.2.7)
+      crack (>= 0.1.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ZenTest
+  autotest-fsevent
+  autotest-growl
+  parature!
+  rspec
+  webmock

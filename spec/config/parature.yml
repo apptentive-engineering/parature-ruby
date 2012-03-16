@@ -1,0 +1,5 @@
+--- 
+:host: h1
+:account_id: 1
+:department_id: 2
+:token: abc
