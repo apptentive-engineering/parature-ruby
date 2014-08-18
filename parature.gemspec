@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Anton Astashov"]
   s.email       = ["anton.astashov@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{A gem to interact with Parature}
+  s.description = %q{A gem to interact with Parature}
 
   s.rubyforge_project = "parature"
 
